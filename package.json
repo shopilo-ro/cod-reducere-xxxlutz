@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-xxxlutz",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere XXXLutz de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-xxxlutz",
+    "voucher-xxxlutz",
+    "cupon-xxxlutz",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/xxxlutz.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-xxxlutz.git"
+  }
+}
